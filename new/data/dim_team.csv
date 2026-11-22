@@ -1,0 +1,8 @@
+team_id,team_name,department,grades_handled,team_manager
+T01,Team Phoenix,Sales,8,Bhavana Gowda
+T02,Team Titans,Sales,9,Vivaan Kulkarni
+T03,Team Spartans,Sales,10,Kavya Joshi
+T04,Team Falcons,Sales,11-12,Arjun Menon
+T05,Retention Alpha,Retention,8-9,Shreya Das
+T06,Retention Beta,Retention,10,Naveen Naidu
+T07,Retention Gamma,Retention,11-12,Vikram Jain

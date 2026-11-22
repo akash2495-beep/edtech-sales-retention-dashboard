@@ -1,0 +1,52 @@
+mentor_id,mentor_name,team_id,role,join_date,exit_date,employment_status
+M001,Siddharth Mehta,T01,Team Lead,2023-05-17,,Active
+M002,Diya Kulkarni,T01,Mentor,2025-08-10,,Active
+M003,Naveen Joshi,T01,Mentor,2023-03-18,,Active
+M004,Arjun Rao,T01,Mentor,2022-07-23,,Active
+M005,Ishita Gowda,T01,Mentor,2022-10-30,,Active
+M006,Rekha Patel,T01,Mentor,2022-04-02,,Active
+M007,Sneha Joshi,T02,Team Lead,2022-04-11,,Active
+M008,Aarav Kumar,T02,Mentor,2023-11-09,,Active
+M009,Ananya Rao,T02,Mentor,2022-01-01,,Active
+M010,Lakshmi Kapoor,T02,Mentor,2022-04-27,2024-09-14,Exited
+M011,Lakshmi Verma,T02,Mentor,2023-01-02,,Active
+M012,Deepak Naidu,T02,Mentor,2023-07-16,,Active
+M013,Priya Nair,T02,Mentor,2021-11-02,,Active
+M014,Aditya Chatterjee,T02,Mentor,2024-11-13,,Active
+M015,Siddharth Naidu,T02,Mentor,2023-05-24,,Active
+M016,Rohan Hegde,T02,Mentor,2026-05-14,2026-09-23,Exited
+M017,Diya Kapoor,T03,Team Lead,2021-11-30,,Active
+M018,Aarav Mehta,T03,Mentor,2022-06-08,2025-03-14,Exited
+M019,Suresh Jain,T03,Mentor,2023-02-15,,Active
+M020,Sandeep Bhat,T03,Mentor,2022-05-18,,Active
+M021,Gaurav Patel,T03,Mentor,2023-03-14,,Active
+M022,Karthik Iyer,T03,Mentor,2025-03-02,,Active
+M023,Deepak Mehta,T03,Mentor,2022-09-11,,Active
+M024,Tanvi Bhat,T03,Mentor,2021-11-24,,Active
+M025,Arjun Hegde,T03,Mentor,2023-04-06,2025-05-08,Exited
+M026,Gaurav Jain,T03,Mentor,2023-01-07,,Active
+M027,Priya Mehta,T04,Team Lead,2023-06-30,,Active
+M028,Ananya Joshi,T04,Mentor,2022-07-03,,Active
+M029,Akash Joshi,T04,Mentor,2026-04-13,,Active
+M030,Sandeep Mehta,T04,Mentor,2023-09-25,,Active
+M031,Ritu Iyer,T04,Mentor,2023-02-15,,Active
+M032,Rohan Mishra,T04,Mentor,2024-04-01,2024-09-03,Exited
+M033,Kavya Kumar,T04,Mentor,2022-08-14,,Active
+M034,Varun Naidu,T04,Mentor,2023-04-12,2025-12-11,Exited
+M035,Siddharth Mishra,T05,Team Lead,2022-02-09,,Active
+M036,Pranav Singh,T05,Mentor,2023-06-15,2025-06-29,Exited
+M037,Rohan Chatterjee,T05,Mentor,2024-11-24,2026-02-06,Exited
+M038,Akash Hegde,T05,Mentor,2022-10-30,,Active
+M039,Priya Gupta,T05,Mentor,2023-09-08,2026-05-24,Exited
+M040,Vikram Iyer,T05,Mentor,2024-06-11,,Active
+M041,Swati Kulkarni,T06,Team Lead,2023-12-05,,Active
+M042,Tanvi Shetty,T06,Mentor,2022-04-29,,Active
+M043,Harsha Mishra,T06,Mentor,2022-03-06,,Active
+M044,Bhavana Pillai,T06,Mentor,2025-10-12,2026-07-11,Exited
+M045,Bhavana Jain,T06,Mentor,2025-04-24,2025-09-22,Exited
+M046,Suresh Chatterjee,T06,Mentor,2022-06-01,,Active
+M047,Kavya Singh,T07,Team Lead,2022-09-21,,Active
+M048,Siddharth Kulkarni,T07,Mentor,2023-07-09,,Active
+M049,Pooja Kumar,T07,Mentor,2022-11-20,,Active
+M050,Suresh Mishra,T07,Mentor,2024-05-17,,Active
+M051,Shreya Verma,T07,Mentor,2024-01-14,,Active
