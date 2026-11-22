@@ -7,10 +7,10 @@ An end-to-end Power BI project analysing the sales funnel and customer retention
 ## Dashboard preview
 
 Page 1: Sales Funnel
-![Sales Funnel](images/page1_sales_funnel.png)
+![Sales Funnel](images/page1_sales_funnel.jpg
 
 Page 2: Retention & Churn
-![Retention and Churn](images/page2_retention_churn.png)
+![Retention and Churn](images/page2_retention_churn.jpg)
 
 A PDF export of the report is in [`EdTech_Dashboard.pdf`](EdTech_Dashboard.pdf).
 
